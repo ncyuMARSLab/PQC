@@ -39,8 +39,8 @@ They have been labeled as 0, 1, 2, 3 in sequence.
        </td>   
   </tr>
   <tr>
-     <td><img src=figures/Data_distribution.jpg></td>
-     <td><img></td>
+     <td><img src=figures/bottom.JPG></td>
+     <td><img src=figures/side.JPG></td>
   </tr>
   </table>
 </table>
