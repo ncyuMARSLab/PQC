@@ -23,7 +23,7 @@ They have been labeled as 0, 1, 2, 3 in sequence.
   <table>
   <tr>
     <td align="center" valign="center">Pineapple Number</td>
-    <td colspan="2" align="center" valign="center">001</td>
+    <td colspan="2" align="center" valign="center">0001</td>
   </tr>
   <tr>
     <td align="center" valign="center">Label</td>
