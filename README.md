@@ -39,16 +39,20 @@ They have been labeled as 0, 1, 2, 3 in sequence.
      <td><img src=figures/side.JPG></td>
   </tr>
   <tr>
-     <td rowsapn="2">Audio</td>
+     <td rowspan="2">Audio</td>
      <td>bottom</td>
      <td>side</td>
   </tr>
   <tr>
      <td>
         
+  https://github.com/ncyuMARSLab/PQC500/assets/47770780/0a3f3676-622c-41ed-8469-69686298d534
+  
      </td>
      <td>
         
+  https://github.com/ncyuMARSLab/PQC500/assets/47770780/f07dced4-ea39-4d99-b636-a6bfad59c516
+  
      </td>
   </tr>
 </table>
