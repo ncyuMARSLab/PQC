@@ -30,19 +30,27 @@ They have been labeled as 0, 1, 2, 3 in sequence.
     <td colspan="2">0</td>
   </tr>
   <tr>
-    <td rowspan="2">image</td>
-       <td>
-          bottom
-       </td>
-       <td> 
-         side
-       </td>   
+    <td rowspan="2">Image</td>
+    <td>bottom</td>
+    <td>side</td>   
   </tr>
   <tr>
      <td><img src=figures/bottom.JPG></td>
      <td><img src=figures/side.JPG></td>
   </tr>
-  </table>
+  <tr>
+     <td rowsapn="2">Audio</td>
+     <td>bottom</td>
+     <td>side</td>
+  </tr>
+  <tr>
+     <td>
+        
+     </td>
+     <td>
+        
+     </td>
+  </tr>
 </table>
 
 # Get the Dataset
