@@ -58,7 +58,7 @@ They have been labeled as 0, 1, 2, 3 in sequence.
 </table>
 
 # Get the Dataset
-
+The dataset has been split into 2 parts: training set and test set
 * [Training set](https://drive.google.com/drive/folders/139WZZxhfqy4RucsbOBUVxgkyaTGmkSYS?usp=sharing)
 
 * [Test set](https://drive.google.com/drive/folders/1h5Zgut1VToTHIdTU-c7JzuwNUVh21DDa?usp=sharing)
