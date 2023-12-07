@@ -11,6 +11,13 @@ We define four classes for the pineapple quality:
 3. semi-solid sound (SS)
 4. solid sound (S).
 
+![fig1](figures/Data_distribution.jpg)
+<div align="center">
+**Fig. 1.** Data_distribution.
+<\div>
+  
+
+
 # Get the Dataset
 
 * [Training set](https://drive.google.com/drive/folders/139WZZxhfqy4RucsbOBUVxgkyaTGmkSYS?usp=sharing)
