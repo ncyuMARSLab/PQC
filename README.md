@@ -4,9 +4,9 @@ In this repository, we provide the pineapple dataset : Pineapple Quality Classif
 Yi-Lu Jiang, Wen-Chang Chang, and Chih-Yi Chiu, "Pineapple Quality Classification in a Multimodal Audio-Visual Dataset," <br>
 2023 IEEE International Conference on Big Data (Big Data), Sorrento, Italy, Dec. 15-Dec. 18, 2023.
 
-We compile a pineapple dataset consisting of 500 pineapples of the Tainung No. 17 variety with two modalities: one is tapping a pineapple to record the sounds, and the other is taking pictures by cameras.Each pineapple was tapped at the side and bottom regions to generate 20 soundtracks (recorded by five surrounded microphones) and 16 photos (captured by two cameras from different views).
+We compile a pineapple dataset consisting of 500 pineapples of the Tainung No. 17 variety with two modalities: one is tapping a pineapple to record the sounds, and the other is taking pictures by cameras. Each pineapple was tapped at the side and bottom regions to generate 20 soundtracks (recorded by five surrounded microphones) and 16 photos (captured by two cameras(cam-1, cam-2) from different views).
 
-We define four classes for the pineapple quality: 
+We define four classes for the pineapple quality by the water selection approach : 
 1. hollow sound (H)
 2. semi-hollow sound (SH)
 3. semi-solid sound (SS)
@@ -16,10 +16,34 @@ They have been labeled as 0, 1, 2, 3 in sequence.
 
 <div align="center">
   <img src=figures/Data_distribution.jpg><br>
-  Fig. 1. Data distribution.
+  Fig. 1. The number of pineapples per class.
 </div>
-  
 
+* ### Example
+  <table>
+  <tr>
+    <td>Pineapple Number</td>
+    <td colspan="2">001</td>
+  </tr>
+  <tr>
+    <td>Label</td>
+    <td colspan="2">0</td>
+  </tr>
+  <tr>
+    <td rowspan="2">image</td>
+       <td>
+          bottom
+       </td>
+       <td> 
+         side
+       </td>   
+  </tr>
+  <tr>
+     <td><img src=figures/Data_distribution.jpg></td>
+     <td><img></td>
+  </tr>
+  </table>
+</table>
 
 # Get the Dataset
 
