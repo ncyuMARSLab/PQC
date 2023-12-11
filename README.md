@@ -6,10 +6,10 @@ Yi-Lu Jiang, Wen-Chang Chang, and Chih-Yi Chiu, "Pineapple Quality Classificatio
 We compile a pineapple dataset consisting of 500 pineapples of the Tainung No. 17 variety with two modalities : one is tapping a pineapple to record the sounds, and the other is taking pictures by cameras. Each pineapple was tapped at the side and bottom regions to generate 20 soundtracks (recorded by five surrounded microphones) and 16 photos (captured by two cameras from different views).
 
 We define four classes for the pineapple quality by the water selection approach : <br><br>
-<text>0. hollow sound (H)</text><br>
-<text>1. semi-hollow sound (SH)</text><br>
-<text>2. semi-solid sound (SS)</text><br>
-<text>3. solid sound (S)</text><br>
+1. hollow sound (H)</text><br>
+2. semi-hollow sound (SH)</text><br>
+3. semi-solid sound (SS)</text><br>
+4. solid sound (S)
 <br>
 <div align="center">
   <img src=figures/Data_distribution.jpg><br>
