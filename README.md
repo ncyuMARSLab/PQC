@@ -12,7 +12,7 @@ We define four classes for the pineapple quality by the water selection approach
 4. solid sound (S)
 <br>
 <div align="center">
-  <img src=figures/Data_distribution.jpg><br>
+  <img src=figures/data_distribution.jpg><br>
   Fig. 1. The number of pineapples per class.
 </div>
 
