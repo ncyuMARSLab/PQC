@@ -24,7 +24,7 @@ We define four classes for the pineapple quality by the water selection approach
   </tr>
   <tr>
     <td align="center" valign="center">Label</td>
-    <td colspan="2" align="center" valign="center">H(0)</td>
+    <td colspan="2" align="center" valign="center">H(1)</td>
   </tr>
   <tr>
     <td rowspan="2" align="center" valign="center">Image</td>
