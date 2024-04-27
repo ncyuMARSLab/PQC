@@ -62,5 +62,9 @@ The dataset has been split into 2 parts : training set and test set.
 
 * [readme.txt](https://drive.google.com/file/d/1vi7yqIkfDPeJRwRkzFrkcZ1hdFLtln5p/view?usp=drive_link)
 
+<div>
+  <img src=figures/layout.jpg width="768" height="432"><br>
+</div>
+
 # Citation
 Yi-Lu Jiang, Wen-Chang Chang, and Chih-Yi Chiu, "Pineapple Quality Classification in a Multimodal Audio-Visual Dataset," IEEE International Conference on Big Data (Big Data), Sorrento, Italy, Dec. 15-Dec. 18, 2023.
