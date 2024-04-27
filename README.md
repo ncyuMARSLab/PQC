@@ -63,7 +63,7 @@ The dataset has been split into 2 parts : training set and test set.
 * [readme.txt](https://drive.google.com/file/d/1vi7yqIkfDPeJRwRkzFrkcZ1hdFLtln5p/view?usp=drive_link)
 
 <div>
-  <img src=figures/layout.jpg width="768" height="432"><br>
+  <img src=figures/layout.jpg width="640" height="360"><br>
 </div>
 
 # Citation
