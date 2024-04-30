@@ -9,14 +9,16 @@ We compile a pineapple dataset consisting of 500 pineapples of the Tainung No. 1
   <img src=figures/layout.jpg width="640" height="360"><br>
   Fig. 1. Environment layout.<br>
 </div>
+<br>
 
-<br>We define four classes for the pineapple quality by the water selection approach : 
+We define four classes for the pineapple quality by the water selection approach : 
 1. hollow sound (H)
 2. semi-hollow sound (SH)
 3. semi-solid sound (SS)
 4. solid sound (S)
+   
 The class distribution is shown in Fig. 2.
-<br>
+
 <div align="center">
   <img src=figures/data_distribution.jpg><br>
   Fig. 2. The distribution of pineapple classes.
