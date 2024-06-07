@@ -40,8 +40,8 @@ The class distribution is shown in Fig. 2.
     <td align="center" valign="center">loc-2</td>   
   </tr>
   <tr>
-     <td align="center" valign="center"><img src=figures/bottom.JPG width="130" ><text>  </text><img src=figures/bottom.JPG width="130"></td>
-     <td align="center" valign="center"><img src=figures/side.JPG width="130"><text>  </text><img src=figures/side.JPG width="130"></td>
+     <td align="center" valign="center"><img src=figures/b1.jpg width="130" ><text>  </text><img src=figures/b2.jpg width="130"></td>
+     <td align="center" valign="center"><img src=figures/s1.jpg width="130"><text>  </text><img src=figures/s2.jpg width="130"></td>
   </tr>
   <tr>
      <td rowspan="2" align="center" valign="center">Audio</td>
@@ -50,13 +50,13 @@ The class distribution is shown in Fig. 2.
   </tr>
   <tr>
      <td align="center" valign="center">
-        
-  https://github.com/ncyuMARSLab/PQC500/assets/47770780/0a3f3676-622c-41ed-8469-69686298d534
+
+  https://github.com/ncyuMARSLab/PQC500/assets/47770780/cc53542c-d4e5-4109-b80d-55f24ea57ff1
   
      </td>
      <td align="center" valign="center">
         
-  https://github.com/ncyuMARSLab/PQC500/assets/47770780/f07dced4-ea39-4d99-b636-a6bfad59c516
+  https://github.com/ncyuMARSLab/PQC500/assets/47770780/ccb1189d-0c75-4112-be2a-1545b10ec4bd
   
      </td>
   </tr>
