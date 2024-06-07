@@ -68,7 +68,7 @@ The dataset has been split into 2 parts : training set and test set.
 
 * [Test set](https://drive.google.com/drive/folders/1h5Zgut1VToTHIdTU-c7JzuwNUVh21DDa?usp=sharing)
 
-* [readme.txt](https://drive.google.com/file/d/16FMrpUX7HrIYDnJMHU-t-UaUeh3P2y0C/view?usp=sharing)
+* [readme.txt](https://drive.google.com/file/d/1fPcDBuSys-Tr1pysyG9_9rAcvUIM1ASi/view?usp=sharing)
   
 
 # Citation
