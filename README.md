@@ -32,21 +32,21 @@ The class distribution is shown in Fig. 2.
   </tr>
   <tr>
     <td align="center" valign="center">Label</td>
-    <td colspan="2" align="center" valign="center">H (1)</td>
+    <td colspan="2" align="center" valign="center">Hollow sound (1)</td>
   </tr>
   <tr>
     <td rowspan="2" align="center" valign="center">Image</td>
-    <td align="center" valign="center">pine-bottom</td>
-    <td align="center" valign="center">pine-side</td>   
+    <td align="center" valign="center">loc-1</td>
+    <td align="center" valign="center">loc-2</td>   
   </tr>
   <tr>
-     <td align="center" valign="center"><img src=figures/bottom.JPG></td>
-     <td align="center" valign="center"><img src=figures/side.JPG></td>
+     <td align="center" valign="center"><img src=figures/bottom.JPG><img src=figures/bottom.JPG></td>
+     <td align="center" valign="center"><img src=figures/side.JPG><img src=figures/side.JPG></td>
   </tr>
   <tr>
      <td rowspan="2" align="center" valign="center">Audio</td>
-     <td align="center" valign="center">pine-bottom</td>
-     <td align="center" valign="center">pine-side</td>
+     <td align="center" valign="center">bottom tapping</td>
+     <td align="center" valign="center">side tappingg</td>
   </tr>
   <tr>
      <td align="center" valign="center">
