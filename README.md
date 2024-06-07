@@ -40,8 +40,8 @@ The class distribution is shown in Fig. 2.
     <td align="center" valign="center">loc-2</td>   
   </tr>
   <tr>
-     <td align="center" valign="center"><img src=figures/bottom.JPG width="180"><text>  </text><img src=figures/bottom.JPG width="180"></td>
-     <td align="center" valign="center"><img src=figures/side.JPG width="180"><text>  </text><img src=figures/side.JPG width="180"></td>
+     <td align="center" valign="center"><img src=figures/bottom.JPG width="170"><text>  </text><img src=figures/bottom.JPG width="170"></td>
+     <td align="center" valign="center"><img src=figures/side.JPG width="170"><text>  </text><img src=figures/side.JPG width="170"></td>
   </tr>
   <tr>
      <td rowspan="2" align="center" valign="center">Audio</td>
