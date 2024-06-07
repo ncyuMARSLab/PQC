@@ -26,41 +26,42 @@ The class distribution is shown in Fig. 2.
 
 * ### Example
   <table>
-  <tr>
-    <td align="center" valign="center">Pineapple Number</td>
-    <td colspan="2" align="center" valign="center">0001</td>
-  </tr>
-  <tr>
-    <td align="center" valign="center">Label</td>
-    <td colspan="2" align="center" valign="center">Hollow sound (1)</td>
-  </tr>
-  <tr>
-    <td rowspan="2" align="center" valign="center">Image</td>
-    <td align="center" valign="center">loc-1</td>
-    <td align="center" valign="center">loc-2</td>   
-  </tr>
-  <tr>
-     <td align="center" valign="center"><img src=figures/b1.jpg width="130" ><text>  </text><img src=figures/s1.jpg width="130"></td>
-     <td align="center" valign="center"><img src=figures/b2.jpg width="130"><text>  </text><img src=figures/s2.jpg width="130"></td>
-  </tr>
-  <tr>
-     <td rowspan="2" align="center" valign="center">Audio</td>
-     <td align="center" valign="center">bottom tapping</td>
-     <td align="center" valign="center"> side tapping </td>
-  </tr>
-  <tr>
+    <tr>
+      <td align="center" valign="center">Pineapple Number</td>
+      <td colspan="2" align="center" valign="center">0001</td>
+    </tr>
+    <tr>
+      <td align="center" valign="center">Label</td>
+      <td colspan="2" align="center" valign="center">Hollow sound (1)</td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="center" valign="center">Image</td>
+      <td align="center" valign="center">loc-1</td>
+      <td align="center" valign="center">loc-2</td>   
+    </tr>
+    <tr>
+       <td align="center" valign="center"><img src=figures/b1.jpg width="130" ><text>  </text><img src=figures/s1.jpg width="130"></td>
+       <td align="center" valign="center"><img src=figures/b2.jpg width="130"><text>  </text><img src=figures/s2.jpg width="130"></td>
+    </tr>
+    <tr>
+       <td rowspan="2" align="center" valign="center">Audio</td>
+       <td align="center" valign="center">bottom tapping</td>
+       <td align="center" valign="center"> side tapping </td>
+    </tr>
+    <tr>
      <td align="center" valign="center">
-
-  https://github.com/ncyuMARSLab/PQC500/assets/47770780/cc53542c-d4e5-4109-b80d-55f24ea57ff1
+  
+    https://github.com/ncyuMARSLab/PQC500/assets/47770780/cc53542c-d4e5-4109-b80d-55f24ea57ff1
   
      </td>
+  
      <td align="center" valign="center">
-        
-  https://github.com/ncyuMARSLab/PQC500/assets/47770780/ccb1189d-0c75-4112-be2a-1545b10ec4bd
+          
+    https://github.com/ncyuMARSLab/PQC500/assets/47770780/ccb1189d-0c75-4112-be2a-1545b10ec4bd
   
      </td>
-  </tr>
-</table>
+    </tr>
+  </table>
 
 # Get the Dataset
 The dataset has been split into 2 parts : training set and test set.
